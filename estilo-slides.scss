@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+$body-bg: #f7f9f7;
+$body-color: #18312d;
+$link-color: #127f74;
+$presentation-heading-color: #124b48;
+$presentation-heading-font: "Aptos Display", "Arial", sans-serif;
+$font-family-sans-serif: "Aptos", "Arial", sans-serif;
+$presentation-font-size-root: 28px;
+$presentation-h1-font-size: 2.0em;
+$presentation-h2-font-size: 1.28em;
+/*-- scss:rules --*/
+.reveal .slides section { text-align: left; }
+.reveal .slides h2 { border-bottom: 3px solid #62b4a4; padding-bottom: .22em; margin-bottom: .55em; }
+.reveal .slides img { max-width: 65%;
+  max-height: 65vh;
+  object-fit: contain;}
+.reveal table { font-size: .72em; }
+.reveal .sourceCode { font-size: .68em; }
+.reveal .callout { font-size: .79em; }
+.reveal p, .reveal li { line-height: 1.27; }
+.reveal .slide-number { font-size: 18px; color: #124b48; }
+.reveal .slides section.center h2 { text-align: center; }
+.reveal .nota { background: #eaf4f0; border-left: 5px solid #2c907f; padding: .7em .9em; border-radius: .18em; }
+.reveal .pequeno { font-size: .78em; }
+.reveal .smaller { font-size: .72em; }

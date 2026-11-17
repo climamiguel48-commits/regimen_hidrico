@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "teoria.html#objetivos-de-aprendizaje",
+    "href": "teoria.html#objetivos-de-aprendizaje",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Objetivos de aprendizaje",
+    "text": "Objetivos de aprendizaje\nAl finalizar, podrás:\n\nInterpretar el régimen hídrico y sus componentes.\nReconocer la variabilidad temporal y espacial de la precipitación.\nExplicar los índices de secuencias de días secos.\nClasificar condiciones mediante P y ETo.\nIdentificar períodos de crecimiento y eventos de interés agrícola."
+  },
+  {
+    "objectID": "teoria.html#qué-es-el-régimen-hídrico",
+    "href": "teoria.html#qué-es-el-régimen-hídrico",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "¿Qué es el régimen hídrico?",
+    "text": "¿Qué es el régimen hídrico?\nEl comportamiento de la disponibilidad de agua en un lugar depende de las entradas, salidas y almacenamiento de agua."
+  },
+  {
+    "objectID": "teoria.html#qué-describe-un-régimen-hídrico",
+    "href": "teoria.html#qué-describe-un-régimen-hídrico",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "¿Qué describe un régimen hídrico?",
+    "text": "¿Qué describe un régimen hídrico?\n\nCuándo hay agua disponible y durante cuánto tiempo.\nQué interrupciones ocurren dentro de los períodos húmedos.\nCómo varía de un año a otro.\nQué déficits, excesos y eventos extremos se producen.\n\n\nLa precipitación total no explica por sí sola la disponibilidad hídrica."
+  },
+  {
+    "objectID": "teoria.html#para-qué-estudiarlo",
+    "href": "teoria.html#para-qué-estudiarlo",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "¿Para qué estudiarlo?",
+    "text": "¿Para qué estudiarlo?\n\nEstimar la potencialidad agroambiental de una región.\nEvaluar el riesgo asociado con la variabilidad del agua.\nValorar el impacto de las actividades sobre su disponibilidad futura."
+  },
+  {
+    "objectID": "teoria.html#decisiones-agronómicas",
+    "href": "teoria.html#decisiones-agronómicas",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Decisiones agronómicas",
+    "text": "Decisiones agronómicas\n\n\n\n\n\n\n\n\nHorizonte\nAplicaciones\n\n\n\n\nEstratégico\nZonificación, aptitud de cultivos, necesidades de riego y drenaje\n\n\nOperativo\nCalendarios agrícolas, secuencias de cultivos, cosechas\n\n\nContingencia\nSequías, excesos de agua, plagas, enfermedades y transitabilidad"
+  },
+  {
+    "objectID": "teoria.html#estación-de-crecimiento",
+    "href": "teoria.html#estación-de-crecimiento",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Estación de crecimiento",
+    "text": "Estación de crecimiento\n\nEn el material se consideran dos condiciones:\n\nTemperatura que permita crecimiento: \\(T \\ge 5\\ ^\\circ\\mathrm C\\).\nOferta hídrica suficiente:\n\n\\[P + A_{suelo} &gt; 0.5\\,ETo\\]\nMensaje: una temperatura favorable no garantiza crecimiento cuando el agua es insuficiente."
+  },
+  {
+    "objectID": "teoria.html#tres-enfoques-de-análisis",
+    "href": "teoria.html#tres-enfoques-de-análisis",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Tres enfoques de análisis",
+    "text": "Tres enfoques de análisis\n\n\nPrecipitación: montos, días lluviosos, secuencias.\nComparación P–ETo: oferta frente a demanda atmosférica.\nBalance hídrico: añade almacenamiento, déficit y exceso."
+  },
+  {
+    "objectID": "teoria.html#por-qué-no-basta-con-un-promedio",
+    "href": "teoria.html#por-qué-no-basta-con-un-promedio",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "¿Por qué no basta con un promedio?",
+    "text": "¿Por qué no basta con un promedio?\nDos lugares o años con igual lluvia total pueden diferir en:\n\nDistribución estacional.\nNúmero e intensidad de eventos.\nDuración de veranitos.\nRelación entre precipitación y demanda evaporativa.\n\n\nEn agricultura importa tanto cuánto llueve como cuándo lo hace."
+  },
+  {
+    "objectID": "teoria.html#variabilidad-espacial",
+    "href": "teoria.html#variabilidad-espacial",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Variabilidad espacial",
+    "text": "Variabilidad espacial\nLa precipitación puede cambiar significativamente entre lugares cercanos, especialmente en zonas con relieve marcado. \nImplicancia: los datos de una estación meteorológica no siempre representan a otra localidad o parcela.\nPregunta: ¿qué dificultades introduce la topografía al transferir información de lluvia?"
+  },
+  {
+    "objectID": "teoria.html#variabilidad-estacional",
+    "href": "teoria.html#variabilidad-estacional",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Variabilidad estacional",
+    "text": "Variabilidad estacional\nUna cantidad anual similar puede concentrarse en una estación o distribuirse entre varios meses.\nConsecuencia: cambia la duración de la estación favorable y la necesidad de riego de apoyo."
+  },
+  {
+    "objectID": "teoria.html#variabilidad-dentro-del-mes",
+    "href": "teoria.html#variabilidad-dentro-del-mes",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Variabilidad dentro del mes",
+    "text": "Variabilidad dentro del mes\n\nPocos eventos de lluvia intensa.\nMuchos eventos frecuentes de baja intensidad.\nPeríodos secos intercalados con lluvias.\n\nUn mismo total mensual no produce necesariamente la misma respuesta de los cultivos."
+  },
+  {
+    "objectID": "teoria.html#variabilidad-interanual",
+    "href": "teoria.html#variabilidad-interanual",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Variabilidad interanual",
+    "text": "Variabilidad interanual\nLos promedios climáticos deben acompañarse de análisis año a año.\n\nFechas de inicio y término del período favorable.\nDuración e intensidad de las rachas secas.\nFrecuencia y probabilidad de condiciones hídricas."
+  },
+  {
+    "objectID": "teoria.html#índice-i-secuencias-de-días-secos",
+    "href": "teoria.html#índice-i-secuencias-de-días-secos",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Índice I · Secuencias de días secos",
+    "text": "Índice I · Secuencias de días secos\nLas secuencias secas (veranitos) permiten evaluar las interrupciones de lluvia que los promedios mensuales ocultan.\nProcedimiento:\n\nIdentificar días secos consecutivos.\nObtener la racha máxima mensual de cada año.\nConstruir frecuencias o probabilidades interanuales."
+  },
+  {
+    "objectID": "teoria.html#paso-3-frecuencia-y-probabilidad",
+    "href": "teoria.html#paso-3-frecuencia-y-probabilidad",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Paso 3 · Frecuencia y probabilidad",
+    "text": "Paso 3 · Frecuencia y probabilidad\nDos preguntas distintas:\n\nDada una longitud: ¿con qué probabilidad se alcanza o supera?\nDada una probabilidad: ¿qué longitud de racha corresponde?\n\nLas distribuciones se construyen con máximos mensuales observados en distintos años."
+  },
+  {
+    "objectID": "teoria.html#probabilidad-de-excedencia",
+    "href": "teoria.html#probabilidad-de-excedencia",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Probabilidad de excedencia",
+    "text": "Probabilidad de excedencia\nSi \\(L\\) es la longitud máxima de un veranito:\n\\[\\Pr(L&gt;10)\\]\nrepresenta la probabilidad de una racha máxima superior a 10 días.\nAtención: no es lo mismo \\(P(L&gt;10)\\) que \\(P(L\\ge10)\\)."
+  },
+  {
+    "objectID": "teoria.html#riesgo-agronómico-de-una-racha",
+    "href": "teoria.html#riesgo-agronómico-de-una-racha",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Riesgo agronómico de una racha",
+    "text": "Riesgo agronómico de una racha\nUna misma secuencia seca no implica idéntico riesgo en todos los sistemas.\nIntervienen:\n\nEtapa fenológica del cultivo.\nCapacidad de almacenamiento de agua del suelo.\nProfundidad radical y demanda evaporativa.\nDisponibilidad de riego suplementario."
+  },
+  {
+    "objectID": "teoria.html#section-15",
+    "href": "teoria.html#section-15",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "",
+    "text": "##"
+  },
+  {
+    "objectID": "teoria.html#section-16",
+    "href": "teoria.html#section-16",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "",
+    "text": "##"
+  },
+  {
+    "objectID": "teoria.html#section-17",
+    "href": "teoria.html#section-17",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "",
+    "text": "##\nPor medida general se utiliza el dato asociado al 75 % de los años\nLa decisión de utilizar el valor asociado al 75 % de los años analizados se justifica porque permite adoptar un criterio probabilístico conservador para la planificación agrícola, considerando la variabilidad interanual de las precipitaciones.\nEste criterio también se aplica para las demás herramientas que serán explicadas durante esta clase."
+  },
+  {
+    "objectID": "teoria.html#section-18",
+    "href": "teoria.html#section-18",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "",
+    "text": "¿Por qué utilizar el 75 %?\n\nMayor confiabilidad: representa una condición que se ha cumplido en al menos tres de cada cuatro años analizados, aproximadamente.\nConsideración de la variabilidad climática: incorpora los años tempranos y tardíos, evitando depender exclusivamente de las condiciones promedio.\nReducción del riesgo agrícola: permite seleccionar fechas de planificación con una mayor frecuencia histórica de ocurrencia del evento.\nInterpretación práctica: facilita traducir los resultados climáticos en decisiones relacionadas con la siembra y la duración de la temporada lluviosa."
+  },
+  {
+    "objectID": "teoria.html#índice-ii-comparación-peto",
+    "href": "teoria.html#índice-ii-comparación-peto",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Índice II · Comparación P–ETo",
+    "text": "Índice II · Comparación P–ETo\nP: precipitación, aproximación a oferta climática de agua.\nETo: evapotranspiración de referencia, aproximación a demanda atmosférica."
+  },
+  {
+    "objectID": "teoria.html#condiciones-según-p-y-eto",
+    "href": "teoria.html#condiciones-según-p-y-eto",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Condiciones según P y ETo",
+    "text": "Condiciones según P y ETo\n\n\n\nCondición\nCriterio\n\n\n\n\nSeca\n\\(P&lt;0.5ETo\\)\n\n\nIntermedia\n\\(0.5ETo\\le P&lt;ETo\\)\n\n\nHúmeda\n\\(P\\ge ETo\\)\n\n\n\nSon categorías generales de disponibilidad climática."
+  },
+  {
+    "objectID": "teoria.html#humedad-óptima-y-aguachinamiento",
+    "href": "teoria.html#humedad-óptima-y-aguachinamiento",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Humedad óptima y aguachinamiento",
+    "text": "Humedad óptima y aguachinamiento\nDentro del intervalo húmedo, el material distingue:\n\nHumedad óptima: \\(ETo\\le P\\le1.34ETo\\).\nAguachinamiento: \\(P&gt;1.34ETo\\).\n\n\n“Húmeda” es una categoría amplia; “óptima” y “aguachinamiento” la subdividen. Para una clasificación estadística sin solapamiento se usan cuatro clases: seca, intermedia, óptima y aguachinamiento."
+  },
+  {
+    "objectID": "teoria.html#ejemplo-de-clasificación",
+    "href": "teoria.html#ejemplo-de-clasificación",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Ejemplo de clasificación",
+    "text": "Ejemplo de clasificación\nSupongamos \\(ETo=100\\ \\mathrm{mm}\\) en un mes:\n\n\n\nP (mm)\nClasificación\n\n\n\n\n30\nSeca\n\n\n80\nIntermedia\n\n\n120\nHumedad óptima\n\n\n150\nAguachinamiento\n\n\n\nEjemplo ilustrativo."
+  },
+  {
+    "objectID": "teoria.html#frecuencia-mensual-de-condiciones",
+    "href": "teoria.html#frecuencia-mensual-de-condiciones",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Frecuencia mensual de condiciones",
+    "text": "Frecuencia mensual de condiciones\nPara cada mes del calendario:\n\nClasificar el mes de cada año.\nContar cuántos años corresponden a cada condición.\nExpresar la proporción como porcentaje.\n\nAplicación: evaluar estabilidad y riesgo interanual."
+  },
+  {
+    "objectID": "teoria.html#método-de-períodos-de-crecimiento",
+    "href": "teoria.html#método-de-períodos-de-crecimiento",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Método de períodos de crecimiento",
+    "text": "Método de períodos de crecimiento\nEn el enfoque atribuido a FAO (1978), se comparan P y ETo para reconocer los períodos climáticos favorables."
+  },
+  {
+    "objectID": "teoria.html#tres-períodos-de-crecimiento",
+    "href": "teoria.html#tres-períodos-de-crecimiento",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Tres períodos de crecimiento",
+    "text": "Tres períodos de crecimiento\n\nSeco: \\(P&lt;0.5ETo\\).\nPre/post-húmedo: \\(0.5ETo\\le P&lt;ETo\\).\nHúmedo: \\(P\\ge ETo\\).\n\nLa secuencia de estos estados ayuda a delimitar inicio, duración y final de los períodos favorables."
+  },
+  {
+    "objectID": "teoria.html#no-existe-un-único-año-típico",
+    "href": "teoria.html#no-existe-un-único-año-típico",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "No existe un único “año típico”",
+    "text": "No existe un único “año típico”\nLas fechas y las duraciones deben caracterizarse por año y luego resumirse mediante probabilidades.\nEjemplos de preguntas:\n\n¿Cuándo se inicia normalmente la fase húmeda?\n¿Cuántos meses dura?\n¿Qué frecuencia tienen los inicios tardíos?"
+  },
+  {
+    "objectID": "teoria.html#eventos-agrícolas",
+    "href": "teoria.html#eventos-agrícolas",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Eventos agrícolas",
+    "text": "Eventos agrícolas\nLa presentación identifica eventos especialmente relevantes para agricultura de secano."
+  },
+  {
+    "objectID": "teoria.html#section-34",
+    "href": "teoria.html#section-34",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "",
+    "text": "##"
+  },
+  {
+    "objectID": "teoria.html#sesión-práctica-en-r",
+    "href": "teoria.html#sesión-práctica-en-r",
+    "title": "Régimen hídrico e índices climáticos",
+    "section": "Sesión práctica en R:",
+    "text": "Sesión práctica en R:\nPrácticas de régimen hídrico."
+  }
+]

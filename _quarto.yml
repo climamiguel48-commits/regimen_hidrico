@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - data/*.csv
+
+website:
+  title: "Climatología Agroambiental | Régimen hídrico"
+  navbar:
+    title: "Régimen hídrico"
+    left:
+      - href: teoria.qmd
+        text: "Teoría"
+
+format:
+  revealjs:
+    theme: simple
+    fontsize: 34px
+    slide-number: true
+    progress: true
+    controls: true
+    
+execute:
+  echo: true
+  warning: false
+  message: false
